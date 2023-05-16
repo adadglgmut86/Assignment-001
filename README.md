@@ -1,5 +1,3 @@
-# Assignment-001
-
 # Module 1 Challenge
 
 ![Glassnode Logo](glassnode_logo.jpg)
